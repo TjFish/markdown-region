@@ -24,7 +24,7 @@ APEX Region Plugin for converting MarkDown source to the HTML. Support code bloc
 
 # Install
 
-Import plugin file **region_type_plugin_markdownregion.sql** from source directory. choose  default style for code highlight.
+Import plugin file **region_type_plugin_com_tjfish_apex_markdownregion.sql** from source directory. choose  default style for code highlight.
 
 # Settings
 

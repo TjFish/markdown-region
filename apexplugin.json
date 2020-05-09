@@ -24,7 +24,7 @@
       "apex" : {
         "versions" : ["19.2.0"],
         "plugin" : {
-          "internalName" : "group",
+          "internalName" : "COM.TJFISH.APEX.MARKDOWNREGION",
           "type" : "region",
           "demo" : "https://apex.oracle.com/pls/apex/group/r/demo78/home",
           "previewImage" : "https://raw.githubusercontent.com/TjFish/markdown-region/master/img/html.png"  
