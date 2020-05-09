@@ -26,7 +26,7 @@
         "plugin" : {
           "type" : "region",
           "demo" : "https://apex.oracle.com/pls/apex/group/r/demo78/home",
-          "previewImage" : "https://github.com/TjFish/markdown-region/blob/master/img/html.png"  
+          "previewImage" : "https://raw.githubusercontent.com/TjFish/markdown-region/master/img/html.png"  
         }
       }
     }
