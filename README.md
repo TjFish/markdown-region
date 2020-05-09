@@ -16,7 +16,7 @@ APEX Region Plugin for converting MarkDown source to the HTML. Support code bloc
 
 - PLSQL
 
-![plsql](.\img\plsql.png)
+![plsql](./img/plsql.png)
 
 - Python
 
