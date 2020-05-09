@@ -17,7 +17,7 @@
     },
     "repository" : {
       "type" : "git",
-      "url" : "https://github.com/TjFish/markdown-region"
+      "url" : "https://github.com/TjFish/markdown-region.git"
     },
     "oracle" : {
       "versions" : ["11.2.0.1", "12.1.0.1"],
