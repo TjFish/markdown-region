@@ -1,0 +1,33 @@
+{
+    "name" : "Markdown Region",
+    "version" : "1.0",
+    "description" : "APEX 18.1+ Region Plugin for converting Markdown static source to the HTML.Support code block highlight.",
+    "keywords" : ["region type plugin", "markdown", "ShowdownJS","highlight"],
+    "homepage" : "https://github.com/TjFish/markdown-region",
+    "bugs" : {
+      "url" : "https://github.com/TjFish/markdown-region/issues",
+      "email" : "1509390230@qq.com"
+    },
+    "license" : "MIT",
+    "commercial" : "No",
+    "author" : {
+      "name" : "TjFish",
+      "email" : "1509390230@qq.com",
+      "url" : "https://github.com/TjFish/markdown-region"
+    },
+    "repository" : {
+      "type" : "git",
+      "url" : "https://github.com/TjFish/markdown-region"
+    },
+    "oracle" : {
+      "versions" : ["11.2.0.1", "12.1.0.1"],
+      "apex" : {
+        "versions" : ["18.1","19.1","19.2"],
+        "plugin" : {
+          "type" : "region",
+          "demo" : "https://github.com/TjFish/markdown-region",
+          "previewImage" : "https://github.com/TjFish/markdown-region/blob/master/img/html.png"  
+        }
+      }
+    }
+  }
