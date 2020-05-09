@@ -12,7 +12,7 @@ APEX Region Plugin for converting MarkDown source to the HTML. Support code bloc
 
 - HTML
 
-![html](.\img\html.png)
+![html](./img/html.png)
 
 - PLSQL
 
@@ -20,7 +20,7 @@ APEX Region Plugin for converting MarkDown source to the HTML. Support code bloc
 
 - Python
 
-![python](.\img\python.png)
+![python](./img/python.png)
 
 # Install
 
@@ -62,7 +62,7 @@ function (options){
 - Put Markdown code into the static source of the region.
 - Run and see it
 
-![usage](.\img\usage.png)
+![usage](./img/usage.png)
 
 # TO DO
 
