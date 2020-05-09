@@ -25,7 +25,7 @@
         "versions" : ["19.2.0"],
         "plugin" : {
           "type" : "region",
-          "demo" : "https://github.com/TjFish/markdown-region",
+          "demo" : "https://apex.oracle.com/pls/apex/group/r/demo78/home",
           "previewImage" : "https://github.com/TjFish/markdown-region/blob/master/img/html.png"  
         }
       }
