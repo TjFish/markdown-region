@@ -22,7 +22,7 @@
     "oracle" : {
       "versions" : ["11.2.0.1", "12.1.0.1"],
       "apex" : {
-        "versions" : ["18.1","19.1","19.2"],
+        "versions" : ["18.1.0","19.1.0","19.2.0"],
         "plugin" : {
           "type" : "region",
           "demo" : "https://github.com/TjFish/markdown-region",
