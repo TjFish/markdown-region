@@ -1,30 +1,24 @@
 # Markdown-Region
 
-APEX Region Plugin for converting MarkDown source to the HTML. Support code block highlight
+APEX Region Plugin  MarkDown Display. Support code highlight, MathJax, [TOC], anchor,video and audio,sequence diagrams.demo is available [here](https://apex.oracle.com/pls/apex/group/r/demo78/home)
 
 # Features
 
 - converting static Markdown to the HTML
+- support code highlight
+- support [MathJax](https://www.mathjax.org/)
+- support catalog ``[TOC]`` and anchor
+- support video/audio
+- support sequence diagrams
 - easily customizable with JavaScript Initialization Code attribute
-- Support code block highlight
 
 # DEMO
 
-- HTML
-
-![html](./img/html.png)
-
-- PLSQL
-
-![plsql](./img/plsql.png)
-
-- Python
-
-![python](./img/python.png)
+demo is available [here](https://apex.oracle.com/pls/apex/group/r/demo78/home)
 
 # Install
 
-Import plugin file **region_type_plugin_com_tjfish_apex_markdownregion.sql** from source directory. choose  default style for code highlight.
+Import plugin file **region_type_plugin_com_tjfish_apex_markdownregion.sql** from source directory. 
 
 # Settings
 
@@ -64,9 +58,7 @@ function (options){
 
 ![usage](./img/usage.png)
 
-# TO DO
 
-- support  Math Formula
 
 # Notes
 
