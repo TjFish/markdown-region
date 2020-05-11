@@ -1,7 +1,7 @@
 {
     "name" : "Markdown Region",
     "version" : "1.0",
-    "description" : "APEX 19.2+ Region Plugin for display Markdown,Support code block highlight.",
+    "description" : "APEX 19.2+ Region Plugin for display Markdown,Support code highlight, MathJax, [TOC], anchor,video and audio,sequence diagrams.",
     "keywords" : ["region type plugin", "markdown","highlight","MathJax"],
     "homepage" : "https://github.com/TjFish/markdown-region",
     "bugs" : {
