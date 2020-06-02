@@ -1,0 +1,2 @@
+*.plsql linguist-language=plsql
+*.css linguist-language=plsql
